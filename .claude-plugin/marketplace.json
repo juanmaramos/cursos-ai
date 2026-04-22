@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cursos-ai",
+  "description": "Cursos y plugins de IA en espanol.",
+  "owner": {
+    "name": "Juanma Ramos"
+  },
+  "metadata": {
+    "description": "Cursos y plugins de IA en espanol.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-cowork-practico",
+      "description": "Curso interactivo de Claude Cowork en espanol. Ensena a profesionales a delegar trabajo real a Cowork.",
+      "author": {
+        "name": "Juanma Ramos"
+      },
+      "category": "learning",
+      "source": "./claude-cowork-practico",
+      "homepage": "https://github.com/juanmaramos/cursos-ai/tree/main/claude-cowork-practico"
+    }
+  ]
+}
