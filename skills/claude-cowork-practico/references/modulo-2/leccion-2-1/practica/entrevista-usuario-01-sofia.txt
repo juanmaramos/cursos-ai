@@ -1,0 +1,26 @@
+ENTREVISTA DE USUARIO #01
+Perfil: Sofía, 34 años, PM en startup fintech, Madrid
+Entrevistadora: Laura García
+Fecha: 3 marzo 2024
+
+CONTEXTO
+Sofía lleva 3 años usando herramientas de IA en su trabajo diario.
+Usa principalmente ChatGPT y Notion AI.
+
+PROBLEMA PRINCIPAL
+"El problema no es que la IA no funcione. Es que tengo que repetir el contexto cada vez que abro una nueva conversación. Si cambio de pestaña, pierdo todo lo que había configurado."
+
+USO ACTUAL
+Usa IA para: redactar PRDs, resumir feedback de usuarios, preparar presentaciones.
+No usa IA para: análisis de datos (dice que los resultados "no son de fiar").
+
+SOBRE COWORK
+No lo conocía antes de la entrevista. Cuando le mostramos la demo de la carpeta de trabajo persistente:
+"Esto es lo que necesitaba. ¿Por qué no lo tienen todos los productos?"
+
+DISPOSICIÓN A PAGAR
+Pagaría hasta 40 EUR/mes si le ahorra 2+ horas semanales.
+"40 euros es lo que cobro en media hora de consultoría. Sale rentable."
+
+OBJECIONES
+"¿Y mis archivos están seguros? No quiero subir contratos de clientes a ningún servidor."

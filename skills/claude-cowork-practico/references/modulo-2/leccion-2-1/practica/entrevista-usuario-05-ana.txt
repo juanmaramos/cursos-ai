@@ -1,0 +1,30 @@
+ENTREVISTA DE USUARIO #05
+Perfil: Ana, 38 años, Consultora independiente, recursos humanos, Barcelona
+Entrevistadora: Laura García
+Fecha: 8 marzo 2024
+
+CONTEXTO
+Ana trabaja sola. Gestiona 6-8 proyectos simultáneos con clientes corporativos.
+Usa ChatGPT Pro y Notion.
+
+PROBLEMA PRINCIPAL
+"Mis entregables son siempre documentos largos: informes de diagnóstico, planes de acción,
+presentaciones para el Comité. Redactar me lleva el 50% del tiempo. El valor real
+está en el análisis, no en escribir el Word."
+
+USO ACTUAL
+Usa ChatGPT para primeros borradores. Siempre reescribe el resultado.
+"ChatGPT no sabe cómo escribo yo ni cómo habla cada cliente. Siempre suena genérico."
+
+SOBRE COWORK
+Se emocionó con la función de skills personalizadas.
+"¿Puedo darle mi estilo de escritura y que lo mantenga? Eso es lo que necesito."
+Preguntó si puede conectar con su Notion. (No es una función actual.)
+
+DISPOSICIÓN A PAGAR
+"Pago 20 EUR al mes por ChatGPT Pro y no me resuelve el problema. Pagaría 50 EUR
+si esto sí lo resuelve."
+
+OBJECIONES
+Quiere más integración con otras herramientas (Notion, Google Drive).
+"No quiero tener otra carpeta más que gestionar."

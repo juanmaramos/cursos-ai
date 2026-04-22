@@ -1,0 +1,27 @@
+NOTAS INVESTIGACIÓN — Microsoft Copilot / Copilot for M365
+Investigadora: Laura García
+Fecha: 22 febrero 2024
+
+PRODUCTO
+- Copilot (web): similar a ChatGPT, gratis con cuenta Microsoft, integrado en Edge
+- Microsoft 365 Copilot: IA integrada en Word, Excel, PowerPoint, Teams, Outlook
+- Precio M365 Copilot: 30 USD/usuario/mes ADICIONALES al plan M365 existente
+
+POSICIONAMIENTO
+"Tu asistente de IA para Microsoft 365." 
+El más cercano a nuestro caso de uso: trabaja con archivos reales dentro del ecosistema Office.
+
+FORTALEZAS
+- Integración nativa en las herramientas que ya usa la mayoría de profesionales.
+- Copilot en Excel es genuinamente útil para análisis de datos.
+- Copilot en Word puede resumir y generar documentos largos.
+
+DEBILIDADES
+- Requiere Microsoft 365. No sirve para quien usa Google Workspace o Mac.
+- 30 USD/mes adicionales es caro. Muchas empresas no lo han adoptado.
+- Funciona dentro de cada app por separado. No hay una vista unificada de "carpeta de trabajo".
+- En LATAM, muchas empresas medianas y PYMEs no tienen M365 con licencias actualizadas.
+
+PRECIO
+Copilot web: gratuito (limitado) / Copilot Pro: 20 USD/mes
+Microsoft 365 Copilot: 30 USD/usuario/mes (requiere M365 Business o Enterprise)

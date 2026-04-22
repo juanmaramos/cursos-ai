@@ -1,0 +1,27 @@
+ENTREVISTA DE USUARIO #02
+Perfil: Carlos, 41 años, Director de Operaciones, empresa de logística, Buenos Aires
+Entrevistador: Martín Vega
+Fecha: 5 marzo 2024
+
+CONTEXTO
+Carlos gestiona un equipo de 12 personas. No tiene perfil técnico.
+Ha probado ChatGPT "dos o tres veces" pero lo abandonó.
+
+PROBLEMA PRINCIPAL
+"Paso el 40% de mi tiempo generando reportes que nadie lee completos.
+Resumir datos, formatear Excel, preparar el PowerPoint semanal. Todo manual."
+
+USO ACTUAL
+No usa herramientas de IA actualmente. Usa Excel y Word.
+"Intenté ChatGPT para un reporte y me inventó datos. No lo volví a tocar."
+
+SOBRE COWORK
+Reaccionó positivamente a la demo de organización de carpetas.
+"Esto lo entiendo. Es como tener un asistente que no necesito explicarle dónde están las cosas."
+
+DISPOSICIÓN A PAGAR
+"Si me ahorra 10 horas al mes, pagaría 60-80 USD al mes sin pensarlo."
+
+OBJECIONES
+Principal objeción: miedo a los datos inventados (alucinaciones).
+"Necesito que me diga cuándo no sabe algo, no que invente."

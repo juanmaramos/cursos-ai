@@ -1,0 +1,19 @@
+Semana del 5 febrero — pendientes del proyecto
+
+URGENTE (antes del viernes)
+[ ] Confirmar con Ana: ¿la integración HubSpot entra en el plazo o necesitamos más tiempo?
+[ ] Preparar agenda reunión del 5 feb con equipo de ventas de Marcos
+[ ] Responder email de Marcos sobre el gestor de contenidos
+
+ESTA SEMANA
+[ ] Rodrigo: incorporar cambios del feedback (botón CTA más grande, quitar carrusel, logo)
+[ ] Ana: estimación técnica para "repetir pedido" y "notas de entrega"
+[ ] Lucía: actualizar presupuesto con decisión HubSpot
+
+BLOQUEADO / ESPERANDO
+- Fotos de producto: Marcos las manda antes del 5 feb (pendiente confirmar)
+- Estimación técnica de Ana: reunion el lunes 5 feb
+
+PARA LA PRÓXIMA SEMANA
+- Segunda revisión de diseño con ajustes incorporados
+- Demo de checkout con Marcos y su socio

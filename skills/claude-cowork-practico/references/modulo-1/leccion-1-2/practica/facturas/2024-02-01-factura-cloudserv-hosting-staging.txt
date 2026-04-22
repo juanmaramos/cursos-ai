@@ -1,0 +1,18 @@
+FACTURA #2024-F021
+Proveedor: CloudServ Iberia SL
+Fecha: 1 febrero 2024
+Vencimiento: 15 febrero 2024
+
+Cliente: Agencia Digital Norte SL
+
+SERVICIOS DE HOSTING — FEBRERO 2024
+Servidor dedicado (entorno staging proyecto Marcos Dist.)   85 EUR
+Dominio provisional (marcosprueba.agencianorte.com)         12 EUR
+Certificado SSL staging                                      8 EUR
+
+Subtotal:    105 EUR
+IVA (21%):    22,05 EUR
+TOTAL:       127,05 EUR
+
+NOTA: Este entorno de staging se mantendrá hasta la fecha de lanzamiento.
+Una vez en producción, el cliente asume el coste de hosting directamente.

@@ -1,0 +1,32 @@
+BRIEF — Renovación Web Marcos Distribuciones
+Versión: 2 (actualizado post-kickoff)
+
+OBJETIVO PRINCIPAL
+Aumentar la tasa de conversión del sitio actual. La tasa actual es del 1.2%.
+El objetivo es llegar al 3% en los primeros 90 días post-lanzamiento.
+
+AUDIENCIA
+Compradores B2B, medianas empresas, sector retail y hostelería.
+No son tech-savvy. Priorizan precio y velocidad de entrega.
+
+TONO DE COMUNICACIÓN
+Directo, profesional, sin tecnicismos. Énfasis en confianza y rapidez.
+
+PÁGINAS PRIORITARIAS
+1. Home (rediseño completo)
+2. Catálogo de productos (filtros por categoría y precio)
+3. Proceso de pedido simplificado (máximo 3 pasos)
+4. Página de contacto y soporte
+
+RESTRICCIONES TÉCNICAS
+- Mantener el dominio actual
+- Compatible con móvil (60% del tráfico es mobile)
+- Tiempo de carga máximo: 2 segundos
+
+LO QUE NO FUNCIONA EN LA WEB ACTUAL
+- Proceso de pedido: demasiados pasos, usuarios abandonan en el paso 4
+- Catálogo: sin filtros, difícil de navegar
+- Mobile: diseño roto en algunos dispositivos Android
+
+INTEGRACIÓN CRM
+Por confirmar entre HubSpot y Salesforce. Decisión antes del 22 enero.

@@ -1,0 +1,29 @@
+ENTREVISTA DE USUARIO #09
+Perfil: Isabel, 55 años, Directora Financiera, empresa familiar, Valencia
+Entrevistadora: Laura García
+Fecha: 13 marzo 2024
+
+CONTEXTO
+Isabel lleva 20 años en finanzas. Escéptica con tecnología nueva.
+No usa herramientas de IA actualmente.
+
+PROBLEMA PRINCIPAL
+"El cierre mensual me lleva 3 días. Recopilo datos de 5 fuentes distintas,
+las consolido en Excel y preparo el informe para el consejo. Todo manual."
+
+USO ACTUAL
+Excel avanzado, SAP. No usa IA.
+"He visto los errores que cometen estas herramientas. En finanzas un error
+puede costar mucho dinero."
+
+SOBRE COWORK
+Fue la participante más difícil de convencer. Pero cuando vio la demo del Excel:
+"Si puedo ver cada celda y de dónde viene el dato, entonces lo consideraría."
+
+DISPOSICIÓN A PAGAR
+"No decido yo sola. Necesitaría aprobación del consejo. Pero si ahorra el cierre
+de 3 días a 1 día, el coste se justifica solo."
+
+OBJECIONES
+Tres objeciones fuertes: seguridad de datos, trazabilidad de cada número, responsabilidad legal.
+"Si hay un error en el informe del consejo, ¿quién es el responsable? ¿Yo o la herramienta?"

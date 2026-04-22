@@ -1,0 +1,26 @@
+NOTAS INVESTIGACIÓN — ChatGPT / OpenAI
+Investigadora: Laura García
+Fecha: 20 febrero 2024
+
+PRODUCTO
+- ChatGPT: interfaz conversacional, sin gestión de archivos persistente
+- ChatGPT Plus: 20 USD/mes, acceso a GPT-4, capacidad limitada de subir archivos por sesión
+- Proyectos (feature nueva, feb 2024): permite organizar conversaciones por proyecto, con contexto compartido
+- Sin acceso directo a sistema de archivos local
+
+POSICIONAMIENTO
+"El asistente de IA más conocido del mundo." Énfasis en la conversación.
+No se posicionan como herramienta de trabajo con archivos. Es un chatbot que también puede analizar archivos.
+
+FORTALEZAS
+- Marca más reconocida. El 80% de la gente dice "ChatGPT" cuando habla de IA.
+- Ecosistema enorme: plugins, GPTs personalizados, API.
+- Mobile app muy buena.
+
+DEBILIDADES
+- Los archivos no persisten entre sesiones (salvo en Proyectos, función nueva y limitada).
+- Sin acceso a carpetas locales del usuario.
+- Precio: 20 USD/mes para la versión capaz.
+
+PRECIO
+Free / Plus 20 USD / Team 25 USD por usuario/mes / Enterprise: negociado

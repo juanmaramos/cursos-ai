@@ -1,0 +1,32 @@
+PROPUESTA TÉCNICA — Gestor de Contenidos
+Preparada por: Ana Martínez (dev)
+Para: Lucía / Revisión interna, no enviar al cliente todavía
+
+CONTEXTO
+Marcos preguntó en su feedback si pueden subir productos ellos mismos.
+Respuesta corta: sí, pero hay que elegir la opción correcta.
+
+OPCIÓN A — CMS headless (recomendada)
+Herramienta: Contentful o Strapi
+Ventajas: flexible, el equipo de Marcos puede gestionar productos sin tocar código
+Tiempo adicional de desarrollo: +2 semanas
+Coste adicional: 0-200 EUR/mes según volumen
+
+OPCIÓN B — Panel personalizado
+Desarrollar un panel básico a medida
+Ventajas: más simple para el usuario, hecho a medida para sus necesidades
+Tiempo adicional: +3-4 semanas
+Coste adicional: solo desarrollo (ya en el presupuesto de Ana)
+
+OPCIÓN C — Sin gestor (no recomendada)
+Las actualizaciones de producto las hace el equipo técnico
+Funciona si los cambios son raros. No recomendado para 200+ productos.
+
+RECOMENDACIÓN
+Opción A. Strapi es open source, se puede instalar en el servidor propio.
+Coste recurrente: solo hosting (ya incluido en los 1.200 EUR anuales).
+El equipo de Marcos necesita 1-2h de formación para usarlo.
+
+PREGUNTA PARA MARCOS
+¿Con qué frecuencia necesita actualizar el catálogo? ¿Semanalmente, diariamente?
+Esto determina si la Opción A o B tiene más sentido.

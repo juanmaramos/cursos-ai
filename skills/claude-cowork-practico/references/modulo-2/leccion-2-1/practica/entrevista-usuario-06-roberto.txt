@@ -1,0 +1,28 @@
+ENTREVISTA DE USUARIO #06
+Perfil: Roberto, 45 años, Gerente comercial, empresa manufacturera, Monterrey
+Entrevistador: Martín Vega
+Fecha: 10 marzo 2024
+
+CONTEXTO
+Roberto gestiona un equipo de 8 vendedores. Viaja frecuentemente.
+Usa el teléfono para casi todo.
+
+PROBLEMA PRINCIPAL
+"Mis vendedores me mandan actualizaciones por WhatsApp. Yo las consolido en un reporte
+semanal para el director. Eso me lleva el lunes entero. Es tiempo que debería estar
+llamando a clientes."
+
+USO ACTUAL
+Ha probado herramientas de IA pero no ha encontrado ninguna que funcione desde el móvil
+de forma efectiva. "Necesito algo que funcione con lo que ya tengo, no que me cambie el workflow."
+
+SOBRE COWORK
+Reacción mixta. Le interesó la consolidación de documentos pero preguntó por la app móvil.
+Cuando le dijimos que es principalmente desktop: "Entonces no me sirve para el día a día."
+
+DISPOSICIÓN A PAGAR
+"Si funciona en móvil, 40-50 USD. Si es solo desktop, probablemente no lo uso."
+
+OBJECIONES
+Principal: falta de app móvil nativa.
+Secundaria: sus vendedores no van a cambiar de herramienta. La consolidación la tiene que hacer él solo.

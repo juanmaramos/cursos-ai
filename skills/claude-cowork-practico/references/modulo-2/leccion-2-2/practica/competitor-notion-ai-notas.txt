@@ -1,0 +1,26 @@
+NOTAS INVESTIGACIÓN — Notion AI
+Investigadora: Laura García
+Fecha: 21 febrero 2024
+
+PRODUCTO
+- Notion AI: add-on sobre Notion, 10 USD/mes por usuario adicional
+- Funciona dentro de Notion: resume páginas, genera contenido, responde preguntas sobre la base de conocimiento
+- No trabaja con archivos externos (solo con lo que está en Notion)
+
+POSICIONAMIENTO
+"Tu segunda memoria." Énfasis en la base de conocimiento personal y de equipo.
+Se posicionan como sistema de gestión del conocimiento, no como trabajador de archivos.
+
+FORTALEZAS
+- Si ya usas Notion, la integración es nativa.
+- Muy bueno para equipos que tienen todo en Notion.
+- Precio razonable como add-on.
+
+DEBILIDADES
+- Si no usas Notion, no hay producto.
+- No trabaja con archivos del sistema operativo (PDFs, Word, Excel locales).
+- Limitado a lo que está en Notion. No puede ir a buscar información externa.
+
+PRECIO
+Notion Free (limitado) / Plus 8 USD/mes / Business 15 USD/mes / Enterprise
+Notion AI: +10 USD/mes por usuario en cualquier plan

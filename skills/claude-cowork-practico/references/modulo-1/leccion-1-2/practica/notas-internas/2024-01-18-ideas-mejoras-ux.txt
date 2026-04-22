@@ -1,0 +1,25 @@
+Ideas para mejorar UX — lluvia de ideas interna
+Rodrigo + Ana, 18 enero
+
+(Sin filtrar, para discutir)
+
+CATÁLOGO
+- Búsqueda por referencia de producto (los clientes habituales piden por código)
+- "Pedidos frecuentes" como sección visible en el dashboard del usuario
+- Comparador de productos (máximo 3 a la vez)
+- Disponibilidad en tiempo real: si está en stock, cuántos quedan
+
+CHECKOUT
+- Guardar dirección de entrega favorita
+- Opción de factura vs ticket simplificado
+- Recordatorio si el carrito lleva más de 24h sin completar
+- Estimación de fecha de entrega en el momento de pedir (no solo "3-5 días hábiles")
+
+MOBILE
+- App nativa: probablemente no vale la pena para este cliente. PWA sí.
+- Foto de producto en galería deslizable (los clientes ven los detalles antes de pedir)
+
+DUDAS / VALIDAR CON MARCOS
+- ¿Sus clientes compran desde el móvil o desde ordenador? (tenemos datos de analítica?)
+- ¿El "repetir pedido" que pidió Marcos es para todos los usuarios o solo para cuentas registradas?
+- Gestor de contenidos: ¿quién va a subir productos en el día a día?

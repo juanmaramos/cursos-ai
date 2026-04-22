@@ -1,0 +1,23 @@
+FACTURA #2024-018
+Proveedor: Estudio Rodríguez & Asociados
+CIF: B-87654321
+Fecha de emisión: 31 enero 2024
+Vencimiento: 28 febrero 2024
+
+Cliente: Agencia Digital Norte SL
+CIF: A-12345678
+
+CONCEPTO
+Diseño UX/UI — Proyecto Marcos Distribuciones
+Fase 1: Wireframes y sistema de diseño (4 semanas)
+
+Tarifa: 1.800 EUR/semana x 4 semanas = 7.200 EUR
+IVA (21%): 1.512 EUR
+TOTAL: 8.712 EUR
+
+Forma de pago: Transferencia bancaria
+IBAN: ES91 0049 0011 0000 0000 0000
+
+NOTAS
+Esta factura cubre el trabajo realizado en enero.
+La siguiente factura (Fase 2: desarrollo front-end) se emitirá al completar los entregables de diseño aprobados.

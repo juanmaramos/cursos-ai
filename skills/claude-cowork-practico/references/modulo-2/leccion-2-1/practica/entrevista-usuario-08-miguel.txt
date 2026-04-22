@@ -1,0 +1,28 @@
+ENTREVISTA DE USUARIO #08
+Perfil: Miguel, 29 años, Founder, SaaS B2B en etapa temprana, Lima
+Entrevistador: Martín Vega
+Fecha: 12 marzo 2024
+
+CONTEXTO
+Miguel lleva el producto, el marketing y parte de ventas él solo.
+Usa muchas herramientas pero dice que "ninguna le resuelve el problema de raíz."
+
+PROBLEMA PRINCIPAL
+"Soy el único que sabe todo sobre la empresa. No he podido delegar nada
+porque documentar es más lento que hacerlo yo. Es un círculo vicioso."
+
+USO ACTUAL
+Usa Claude y ChatGPT intensivamente. También usa Cursor para código.
+"Claude es el mejor para textos largos. Pero sigue siendo yo quien tiene que dárselo todo masticado."
+
+SOBRE COWORK
+Es el usuario más entusiasta de todos los entrevistados.
+"Esto es exactamente lo que necesito. Una carpeta con todo el contexto de la empresa
+y Claude que lo conoce. No tengo que explicar nada cada vez."
+
+DISPOSICIÓN A PAGAR
+"Pagaría 100 USD al mes sin problema si funciona como dices. Ahora mismo pago 60 entre Claude y ChatGPT."
+
+OBJECIONES
+Quiere saber si puede conectar con GitHub y Linear.
+"Si solo trabaja con archivos locales es útil, pero limitado para un founder de tech."

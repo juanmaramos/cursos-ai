@@ -1,0 +1,28 @@
+De: Marcos García <marcos@marcosdistribuciones.com>
+Para: Lucía Fernández
+Asunto: Re: Wireframes primera revisión
+Fecha: 8 febrero
+
+Lucía,
+
+He revisado los wireframes con mi equipo. En general bien, pero hay cosas que cambiar:
+
+HOME
+- El banner principal está bien, pero el botón de "Pedir ahora" no se ve suficientemente grande
+- Quitaría el carrusel de noticias. Nadie lo va a leer.
+- El logo más grande, por favor.
+
+CATÁLOGO
+- Los filtros que proponen están bien. Añadir filtro por "disponibilidad inmediata", eso es lo que más nos preguntan
+- Las fotos de producto las vamos a subir nosotros. ¿Cuánto tardaría en activarse un gestor de contenidos básico?
+
+PROCESO DE PEDIDO
+- 3 pasos está bien. Pero en el paso 2 falta el campo de "notas de entrega". Es crítico para nuestros clientes.
+- ¿Podemos añadir opción de "repetir pedido anterior"? Muchos clientes repiten exactamente lo mismo.
+
+MOBILE
+- Probé en mi iPhone y se ve bien. Mi socio probó en un Samsung y dice que el menú no le funciona. ¿Puede ser un problema del navegador?
+
+Una pregunta: ¿para cuándo tenemos la siguiente revisión? Quiero que mi equipo de ventas lo vea antes de aprobar.
+
+Marcos

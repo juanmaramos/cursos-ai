@@ -1,0 +1,25 @@
+NOTAS DE RESEARCH — Sprint de Discovery
+Producto: App de gestión de gastos para freelancers
+PM: Carmen López
+Entrevistas realizadas: 12 (semanas del 4 y 11 de marzo)
+
+HALLAZGOS PRINCIPALES (sin procesar)
+
+El dolor más repetido: "No sé cuánto he ganado realmente este mes hasta que hago el Excel del cierre."
+Lo dijeron 8 de 12 personas entrevistadas. Piden visibilidad en tiempo real.
+
+El segundo dolor más frecuente: la declaración trimestral.
+"Paso 2 días reconstruyendo mis gastos porque no los fui registrando."
+7 de 12 personas.
+
+Comportamiento actual: la mayoría usa notas del teléfono o WhatsApp para anotar gastos.
+Solo 3 de 12 usan alguna app (Fintonic, Money Manager). Ninguno las usa para la declaración.
+
+Lo que no quieren: "No quiero otra app más. Si no se conecta con lo que ya uso, no la voy a usar."
+5 personas mencionaron integración con banco, 4 mencionaron facturación.
+
+Disposición a pagar: media de 8-12 EUR/mes. Dos personas pagarían hasta 20 EUR/mes.
+Condición: "Que me ahorre el tiempo de la declaración trimestral. Eso solo ya vale."
+
+Insight inesperado: 4 de 12 freelancers no tienen separación entre cuenta personal y profesional.
+"Es que empecé facturando poco y nunca lo separé. Ahora es un lío."

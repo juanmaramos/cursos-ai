@@ -1,0 +1,33 @@
+PRD BORRADOR — Dashboard de ingresos en tiempo real
+Versión: 0.1 (pre-discovery, actualizar con hallazgos de research)
+PM: Carmen López
+Estado: BORRADOR — No compartir
+
+PROBLEMA
+Los freelancers no saben cuánto han ganado realmente hasta el cierre del mes.
+La incertidumbre genera estrés y dificulta la planificación.
+
+HIPÓTESIS DE SOLUCIÓN
+Un dashboard que muestre ingresos y gastos del mes en curso, en tiempo real,
+sin necesidad de entrada manual de datos.
+
+USUARIOS OBJETIVO
+Freelancers y autónomos con 1-5 clientes activos simultáneos.
+Ingresos variables entre 2.000 y 6.000 EUR/mes.
+
+MÉTRICAS DE ÉXITO
+- Activación: 60% de usuarios crean su primer registro en las primeras 48h
+- Retención: 40% de usuarios activos a los 30 días
+- NPS: > 40 a los 90 días
+
+FUNCIONALIDADES PROPUESTAS (por priorizar)
+- Registro de ingresos (facturas emitidas)
+- Registro de gastos (manual o por foto)
+- Dashboard mensual con totales
+- Exportación para declaración trimestral
+- Integración bancaria (fase 2)
+
+PREGUNTAS ABIERTAS
+1. ¿Conectamos con cuentas bancarias desde el MVP o es fase 2?
+2. ¿Hacemos la estimación de impuestos automática o solo mostramos los datos brutos?
+3. ¿Qué hacemos con los freelancers que mezclan cuenta personal y profesional?

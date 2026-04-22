@@ -1,0 +1,28 @@
+ENTREVISTA DE USUARIO #04
+Perfil: Jorge, 52 años, Contador público, despacho propio, Bogotá
+Entrevistador: Martín Vega
+Fecha: 7 marzo 2024
+
+CONTEXTO
+Jorge tiene 3 empleados y gestiona unos 40 clientes.
+Primera vez que participa en una entrevista de producto tecnológico.
+
+PROBLEMA PRINCIPAL
+"Cada cliente me manda los documentos como puede: algunos en PDF, otros en fotos,
+otros en WhatsApp. Organizarlo me lleva horas que debería dedicar al análisis."
+
+USO ACTUAL
+No usa IA. Usa Excel, Word y correo electrónico.
+"Le tengo respeto a estas herramientas. ¿Cómo sé que no me cambia los números?"
+
+SOBRE COWORK
+Reaccionó con escepticismo inicial, pero se interesó cuando vio la demo de Excel.
+"Ah, ¿esto genera el Excel desde las fotos? ¿Y puedo revisar cada número antes de guardar?"
+
+DISPOSICIÓN A PAGAR
+"No más de 30 USD al mes. Soy pequeño, no tengo el presupuesto de una empresa."
+Con incentivo anual pagaría hasta 20 USD/mes.
+
+OBJECIONES
+Objeción principal: confianza en los datos. Necesita ver la fuente de cada número.
+"Si me da un total y puedo ver de dónde sale, le creo. Si no, no."

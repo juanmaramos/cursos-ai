@@ -1,0 +1,27 @@
+ENTREVISTA DE USUARIO #03
+Perfil: Valentina, 28 años, Marketing Manager, agencia creativa, Ciudad de México
+Entrevistadora: Laura García
+Fecha: 6 marzo 2024
+
+CONTEXTO
+Valentina usa Canva AI, Adobe Firefly y ChatGPT regularmente.
+Es la más tech-savvy del equipo de marketing.
+
+PROBLEMA PRINCIPAL
+"Tenemos 15 clientes. Cada uno con su tono, sus colores, sus restricciones.
+Cada vez que le pido algo a ChatGPT tengo que pegarle el brief completo otra vez."
+
+USO ACTUAL
+Usa IA para: copy de redes sociales, brief de creatividad, resúmenes de reuniones.
+Quiere usar IA para: análisis de campañas, pero no ha encontrado la herramienta correcta.
+
+SOBRE COWORK
+"¿Puedo tener una carpeta por cliente con todo el contexto ahí? Eso lo cambia todo."
+Le interesó especialmente la posibilidad de crear skills personalizadas por cliente.
+
+DISPOSICIÓN A PAGAR
+25-35 EUR/mes. "No puedo justificar más sin aprobación de dirección."
+"Pero si funciona como dices, lo propongo en el equipo y lo pagamos entre todos."
+
+OBJECIONES
+"¿Genera imágenes? ¿No? Entonces no lo reemplaza todo. Para copy sí, para creatividad no."

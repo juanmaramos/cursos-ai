@@ -1,0 +1,15 @@
+Reunión de kickoff — Proyecto Renovación Web
+Fecha: 14 enero
+Asistentes: Lucía (PM), Rodrigo (diseño), Ana (dev), Marcos (cliente)
+
+Marcos quiere que la web nueva esté lista antes del Q2. Dice que la actual "no convierte".
+Rodrigo preguntó por el brief de marca — Marcos dijo que lo manda esta semana (pendiente).
+Ana estimó entre 6 y 10 semanas dependiendo de si hay integraciones con el CRM.
+Lucía va a organizar las siguientes reuniones. Frecuencia: quincenal.
+
+Próximos pasos:
+- Marcos manda brief de marca antes del viernes 19
+- Ana hace estimación técnica con el equipo el 22
+- Primera revisión de wireframes: semana del 5 feb
+
+Pendiente confirmar: ¿integración con HubSpot o con Salesforce?

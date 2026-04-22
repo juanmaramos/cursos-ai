@@ -1,0 +1,28 @@
+ENTREVISTA DE USUARIO #10
+Perfil: Tomás, 35 años, Consultor de estrategia, firma de consultoría mediana, Madrid
+Entrevistador: Martín Vega
+Fecha: 14 marzo 2024
+
+CONTEXTO
+Tomás lleva 8 años en consultoría. Gestiona 3-4 proyectos simultáneos.
+Usa ChatGPT Pro y GitHub Copilot.
+
+PROBLEMA PRINCIPAL
+"En cada proyecto nuevo paso las dos primeras semanas organizando documentos del cliente.
+Contratos, historiales, presentaciones antiguas. Es trabajo que no le factura nadie
+pero que si no hago, me pierde en las reuniones."
+
+USO ACTUAL
+Usa ChatGPT para resumir documentos y preparar preguntas para entrevistas con stakeholders.
+"El problema es el tamaño del contexto. 200 páginas de documentación no caben en un prompt."
+
+SOBRE COWORK
+"Una carpeta por cliente donde Claude conoce todo el historial. Eso es un asistente de verdad."
+Fue el más específico en sus preguntas técnicas sobre tamaño de contexto y actualización de archivos.
+
+DISPOSICIÓN A PAGAR
+"50-70 EUR al mes. Lo que pago ahora en ChatGPT Pro más lo que ahorraría en tiempo."
+Potencialmente podría escalar a nivel equipo si hay licencias por proyecto.
+
+OBJECIONES
+"¿Qué pasa cuando el proyecto termina? ¿Puedo archivar esa carpeta y que no ocupe?"

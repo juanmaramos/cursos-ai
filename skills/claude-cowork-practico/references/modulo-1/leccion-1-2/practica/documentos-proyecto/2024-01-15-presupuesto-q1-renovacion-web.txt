@@ -1,0 +1,32 @@
+PRESUPUESTO PROYECTO — Q1 2024
+Proyecto: Renovación Web Marcos Distribuciones
+PM: Lucía Fernández
+Última actualización: 15 enero 2024
+
+PARTIDA PRESUPUESTARIA
+-----------------------------------------------
+Diseño UX/UI (Estudio Rodríguez)    28.800 EUR
+  - Fase 1: Wireframes (4 sem)        7.200
+  - Fase 2: Diseño visual (4 sem)     7.200
+  - Fase 3: Assets y ajustes (2 sem)  3.600
+  - Buffer 15%                        2.700 (estimado, no confirmado)
+
+Desarrollo (equipo interno Ana)      18.000 EUR
+  - Estimación: 6 semanas x 3.000    18.000
+  (pendiente de confirmar con Ana el 22 ene)
+
+Integración CRM                      TBD
+  - HubSpot starter: ~500/mes
+  - Salesforce: ~1.200/mes
+  (decisión pendiente)
+
+Licencias y hosting (anual)           1.200 EUR
+
+TOTAL ESTIMADO (sin CRM)             48.000 EUR
+TOTAL CON HUBSPOT (año 1)            54.000 EUR
+TOTAL CON SALESFORCE (año 1)         62.400 EUR
+
+NOTAS
+- El presupuesto de diseño está confirmado por contrato.
+- Desarrollo: estimación preliminar, puede variar +/-20%.
+- La decisión de CRM impacta el presupuesto anual, no el de Q1.

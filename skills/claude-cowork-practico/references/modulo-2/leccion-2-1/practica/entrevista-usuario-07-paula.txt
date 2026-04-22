@@ -1,0 +1,27 @@
+ENTREVISTA DE USUARIO #07
+Perfil: Paula, 31 años, Head of Content, media digital, Santiago de Chile
+Entrevistadora: Laura García
+Fecha: 11 marzo 2024
+
+CONTEXTO
+Paula gestiona un equipo de 5 redactores y 2 diseñadores.
+Usa Notion, Slack y varias herramientas de IA.
+
+PROBLEMA PRINCIPAL
+"Producimos 30 piezas de contenido por semana. El briefing de cada pieza lo hago yo.
+Es repetitivo y consume demasiado tiempo para el valor que aporta."
+
+USO ACTUAL
+Usa ChatGPT para briefings. Ha creado un sistema de plantillas en Notion.
+"El problema es que cada redactor interpreta el brief diferente. Necesito más consistencia."
+
+SOBRE COWORK
+Le interesó la posibilidad de tener una carpeta con el manual de estilo y que Claude lo aplique.
+"¿Puedo tener ahí el tono de voz, los ejemplos buenos y los malos, y que los briefings salgan consistentes?"
+
+DISPOSICIÓN A PAGAR
+35 EUR/mes si le ahorra 5+ horas semanales.
+Potencialmente escalaría a un plan de equipo si funciona.
+
+OBJECIONES
+"¿Cuántos usuarios puede tener una misma cuenta? Si es solo uno, no me sirve para el equipo."
